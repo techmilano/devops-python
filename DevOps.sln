@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DevOps", "DevOps.pyproj", "{62EFB274-5211-4E69-9B07-49E3EEFCFC81}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "python-automate", "python-automate.pyproj", "{62EFB274-5211-4E69-9B07-49E3EEFCFC81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
